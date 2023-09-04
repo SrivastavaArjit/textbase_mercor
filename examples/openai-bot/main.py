@@ -3,7 +3,7 @@ from textbase.models import OpenAI
 from typing import List
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = ""
 
 # Prompt for GPT-3.5 Turbo
 
