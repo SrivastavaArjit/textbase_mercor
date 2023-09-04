@@ -1,4 +1,7 @@
 
+
+https://github.com/SrivastavaArjit/textbase_mercor/assets/82926673/671521e4-8c20-40fd-adcb-4e831d2c1aa5
+
 # Health Recommendation Chatbot
 
 Welcome to the Health Recommendation Chatbot repository! This project aims to provide health recommendations and information using natural language processing (NLP) techniques. Users can interact with the chatbot to receive personalized health advice, tips, and information on various health-related topics.
