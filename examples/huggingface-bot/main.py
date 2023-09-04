@@ -3,7 +3,7 @@ from textbase.models import HuggingFace
 from typing import List
 
 # Load your HuggingFace API key
-HuggingFace.api_key = ""
+HuggingFace.api_key = "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"
 
 # Prompt for GPT-3.5 Turbo
 SYSTEM_PROMPT = """You are chatting with an AI. There are no specific prefixes for responses, so you can ask or talk about anything you like.
