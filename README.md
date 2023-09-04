@@ -24,7 +24,7 @@ To get started with the Health Recommendation Chatbot, follow these steps:
    ```shell
    git clone https://github.com/SrivastavaArjit/textbase_mercor.git
 
-2. **Follow this video**
+2. **Getting started with textbase, installing and gettings server running:**
    - [https://youtu.be/ChGp44kQ7jY] (Windows)
    - [https://youtu.be/r7G-RlVq_Ec] (Linux/Ubuntu 19.04+)
    - [https://youtu.be/XBLx1j8H8O8] (Textbase dashboard/CLI walkthrough)
