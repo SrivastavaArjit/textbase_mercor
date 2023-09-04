@@ -2,14 +2,6 @@
 
 Welcome to the Health Recommendation Chatbot repository! This project aims to provide health recommendations and information using natural language processing (NLP) techniques. Users can interact with the chatbot to receive personalized health advice, tips, and information on various health-related topics.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
